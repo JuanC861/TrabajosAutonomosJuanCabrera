@@ -147,3 +147,9 @@ while correr:
 #Salir de pygame
 pygame.quit()
 sys.exit
+
+#   BIBLIOGRAFIA PARA REALIZAR EL CODIGO
+#       https://www.pygame.org/docs/
+#       https://docs.python.org/es/3.10/library/random.html
+#       https://www.w3schools.com/python/python_functions.asp
+#       https://docs.python.org/3/library/sys.html
