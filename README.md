@@ -31,7 +31,7 @@ Ejecutar:
 
 Archivos (Necesarios para que se vea el corazón):
 
-- Juan Cabrera Pong - Aprendizaje Autonomo 2.py
+- Juan Cabrera Pong - Aprendizaje Autonomo 3 - Evaluacion con el Docente
 - corazon.png (debe estar en la misma carpeta)
 
 Bibliografía:
