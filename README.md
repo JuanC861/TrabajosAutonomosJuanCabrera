@@ -3,6 +3,7 @@
 Pong v.1 – Aprendizaje Autónomo 2
 
 Autor: Juan Cabrera
+
 Python + pygame-ce
 
 Descripción: Juego tipo Pong hecho en Python usando pygame-ce, aplicando lógica de programación (bucles, condicionales, funciones, eventos y colisiones).
