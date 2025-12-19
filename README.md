@@ -23,12 +23,11 @@ Controles:
 
 Requisitos:
 
-- Instalar pygame-ce:
-- pip install pygame-ce
+- Instalar pygame-ce: pip install pygame-ce
 
 Ejecutar: 
 
-- python "Juan Cabrera Pong - Aprendizaje Autonomo 2.py"
+- python "Juan Cabrera Pong - Aprendizaje Autonomo 3 - Evaluacion con el Docente"
 
 Archivos (Necesarios para que se vea el corazón):
 
